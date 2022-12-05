@@ -29,37 +29,7 @@
             </div>
         </v-col>
     </v-row>
-    <v-row>
-        <v-col cols="12" lg="6">
-            <div>
-                <v-img
-                lazy-src="./me.jpeg"
-                max-height="400"
-                max-width="550"
-                src="./prema.jpeg"
-                class="mx-auto"
-                contain
-                ></v-img>
-            </div>
-        </v-col>
-        <v-col cols="12" lg="6">
-            <div class="myself">
-                <div class="designation"><b><u>My Advisor</u></b></div>
-                <b>Prema Monteiro, MS, EdS</b>
-                <br>
-                Professor of Culinary Arts Mgmt. / Hospitality and Events Mgmt. <br>
-                Department of Visual Arts and Design <br>
-                University of North Alabama <br>
-                Box 5006 <br>
-                Florence, AL 35632   <br>
-                Office: East Campus, Room 302 <br>
-                            1640 Tune Ave.  <br>
-                            Florence, AL 35632 <br>
-                Phone: 256-765-5227 <br>
-                Email: pmonteiro@una.edu <br>
-            </div>
-        </v-col>
-        <div class="mx-auto my-2">
+    <div class="mx-auto my-2">
         <p><strong>Education:</strong></p>
 <ul>
 <li>Bachelor in events and hospitality management</li>
@@ -93,6 +63,39 @@
 <li>Stocking Moe&rsquo;s store</li>
 </ul>
 </div>
+    <v-row>
+        <v-col cols="12" lg="6">
+            <div class="heading">
+                My Faculty
+            </div>
+            <div>
+                <v-img
+                lazy-src="./me.jpeg"
+                max-height="400"
+                max-width="550"
+                src="./prema.jpeg"
+                class="mx-auto"
+                contain
+                ></v-img>
+            </div>
+        </v-col>
+        <v-col cols="12" lg="6">
+            <div class="myself">
+                <div class="designation"><b><u>My Advisor</u></b></div>
+                <b>Prema Monteiro, MS, EdS</b>
+                <br>
+                Professor of Culinary Arts Mgmt. / Hospitality and Events Mgmt. <br>
+                Department of Visual Arts and Design <br>
+                University of North Alabama <br>
+                Box 5006 <br>
+                Florence, AL 35632   <br>
+                Office: East Campus, Room 302 <br>
+                            1640 Tune Ave.  <br>
+                            Florence, AL 35632 <br>
+                Phone: 256-765-5227 <br>
+                Email: pmonteiro@una.edu <br>
+            </div>
+        </v-col>
     </v-row>
   </v-col>
 </template>
