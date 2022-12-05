@@ -79,6 +79,7 @@ export default {
                     link: 'blob:https://web.whatsapp.com/aabc7600-3eae-4e72-b1f7-ccee798302d8',
                     cusine: "Italian",
                     desc: 'Caprese salad is a simple Italian salad, made of sliced fresh mozzarella, tomatoes, and sweet basil, seasoned with salt, and olive oil.'
+                },     
                 
             ]
         }
