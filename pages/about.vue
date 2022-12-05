@@ -63,6 +63,23 @@
 <li>Stocking Moe&rsquo;s store</li>
 </ul>
 </div>
+<v-card
+            :color="item.color"
+            dark
+          >
+            <div class="d-flex flex-no-wrap justify-space-between">
+              <div>
+                <v-card-title
+                  class="text-h5"
+                >
+                  Ambitious university student with the ability to provide flexibility and strong leadership to all positions. Good background I customer service, event management, and marketing with exceptional skills in time management.
+                </v-card-title>
+                        </v-card>
+                      </v-dialog>
+                    </div>
+                </v-card-actions>
+              </div>
+          </v-card>
     <v-row>
         <v-col cols="12" lg="6">
             <div class="heading">
