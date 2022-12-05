@@ -5,7 +5,7 @@
     </div>
     <div class="video">
       <video width="550" height="350" controls>
-        <source src="/movie.mp4" type="video/mp4">
+        <source src="https://youtu.be/o94qJGT3Vqg" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     </div>
