@@ -68,6 +68,12 @@ export default {
                     cusine: "Italian",
                     desc: 'Salads that are filled with more vegetables and fruit in them than lettuce make my day! For more flavored salads try this Antipasto Salad Recipe, Apple Bacon Brussels Sprouts Salad or Avocado, Tomato and Cucumber Arugula Salad.'
                 },
+                {
+                    name: "A mezze platter",
+                    link: 'https://cdn.loveandlemons.com/wp-content/uploads/2022/08/mezze-platter-1.jpg',
+                    cusine: "Italian",
+                    desc: 'Salads that are filled with more vegetables and fruit in them than lettuce make my day! For more flavored salads try this Antipasto Salad Recipe, Apple Bacon Brussels Sprouts Salad or Avocado, Tomato and Cucumber Arugula Salad.'
+                },
             ]
         }
     }
