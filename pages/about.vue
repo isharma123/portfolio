@@ -59,6 +59,38 @@
                 Email: pmonteiro@una.edu <br>
             </div>
         </v-col>
+        <p><strong>Education:</strong></p>
+<ul>
+<li>Bachelor in events and hospitality management</li>
+<li>University of North Alabama- Florence. AL</li>
+</ul>
+<p><strong>Experiences: </strong></p>
+<p><strong>Industrial training:(12/24/2021-4/17/2022)</strong></p>
+<p><strong>The Leela Palace Jaipur, India</strong></p>
+<ul>
+<li>6-month industrial in various departments of the hotels</li>
+<li>Worked as a front office receptionist</li>
+<li>Worked in garde manger kitchen</li>
+<li>Event coordinator</li>
+</ul>
+<p><strong>Cox and kings event company at Oberoi international, New Delhi(12/24/2022-4/17/2021)</strong></p>
+<ul>
+<li>Marriage and Event Coordinator</li>
+<li>Supervised a floor of 20 residents, and organized floor programs.</li>
+<li>Managed guest complaints</li>
+</ul>
+<p><strong>Cappuccino club: Chandigarh university (12/4/2019-2/10/2020)</strong></p>
+<ul>
+<li>Organized various parties within the Hotel management department</li>
+<li>Served to the president of Chandigarh University.</li>
+<li>Supervised events at the university</li>
+</ul>
+<p><strong>Fast Food Restaurant employee: Moe&rsquo;s southwest grill, University of North Alabama (present)</strong></p>
+<ul>
+<li>Worked in the front line to service</li>
+<li>Worked in kitchen preparation</li>
+<li>Stocking Moe&rsquo;s store</li>
+</ul>
     </v-row>
   </v-col>
 </template>
