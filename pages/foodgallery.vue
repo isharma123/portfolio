@@ -75,7 +75,7 @@ export default {
                     desc: 'A mezze platter is an easy, fun, and family-friendly dinner! Use the ingredients listed as a starting point, with room to swap in other dips, vegetables, or fruits depending on what’s in season and what you have on hand.'
                 },
                 {
-                    name: "Caprese salad ",
+                    name: "Caprese salad",
                     link: 'blob:https://web.whatsapp.com/aabc7600-3eae-4e72-b1f7-ccee798302d8',
                     cusine: "Italian",
                     desc: 'Caprese salad is a simple Italian salad, made of sliced fresh mozzarella, tomatoes, and sweet basil, seasoned with salt, and olive oil.'
