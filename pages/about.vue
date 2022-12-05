@@ -59,6 +59,7 @@
                 Email: pmonteiro@una.edu <br>
             </div>
         </v-col>
+        <div class="mx-auto my-2">
         <p><strong>Education:</strong></p>
 <ul>
 <li>Bachelor in events and hospitality management</li>
@@ -91,6 +92,7 @@
 <li>Worked in kitchen preparation</li>
 <li>Stocking Moe&rsquo;s store</li>
 </ul>
+</div>
     </v-row>
   </v-col>
 </template>
