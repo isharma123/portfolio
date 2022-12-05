@@ -72,7 +72,7 @@ export default {
                     name: "A mezze platter",
                     link: 'https://cdn.loveandlemons.com/wp-content/uploads/2022/08/mezze-platter-1.jpg',
                     cusine: "Italian",
-                    desc: 'Salads that are filled with more vegetables and fruit in them than lettuce make my day! For more flavored salads try this Antipasto Salad Recipe, Apple Bacon Brussels Sprouts Salad or Avocado, Tomato and Cucumber Arugula Salad.'
+                    desc: 'A mezze platter is an easy, fun, and family-friendly dinner! Use the ingredients listed as a starting point, with room to swap in other dips, vegetables, or fruits depending on what’s in season and what you have on hand.'
                 },
             ]
         }
