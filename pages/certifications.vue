@@ -4,7 +4,7 @@
             Certifications
         </div>
         <v-row class="cardCert" v-for="(item,i) in data" :key="i">
-        <v-col cols="12" lg="6">
+        <v-row>
             <div>
                 <v-img
                 class="imageCert"
@@ -14,7 +14,7 @@
                 :src="item.link"
                 ></v-img>
             </div>
-        </v-col>
+        </v-row>
         <v-col  class="myself" cols="12" lg="6">
             <div class="image">
                 <v-img :lazy-src="item.img" :src="item.img"></v-img>
