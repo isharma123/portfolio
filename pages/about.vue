@@ -64,7 +64,7 @@
 <li>Stocking Moe&rsquo;s store</li>
 </ul>
 </div>
-  <div class="ml-auto">
+  <div class="mx-5">
       Ambitious university student with the ability to provide flexibility and strong leadership to all positions. Good background I customer service, event management, and marketing with exceptional skills in time management.
   </div>
   </v-row>
