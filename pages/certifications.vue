@@ -46,11 +46,11 @@ export default {
                     text: null
                 },
                 {
-                    link:'./Screenshot 2022-12-05 182530.png',
+                    link:'./ishant1.jpg',
                     text: null
                 },
                 {
-                    link:'./Screenshot 2022-12-05 182559.png',
+                    link:'./ishant2.jpg',
                     text: null
                 },
             ]
