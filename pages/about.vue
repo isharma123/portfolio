@@ -29,6 +29,7 @@
             </div>
         </v-col>
     </v-row>
+    <v-row>
     <div class="mx-auto my-2">
         <p><strong>Education:</strong></p>
 <ul>
@@ -66,6 +67,7 @@
   <div class="ml-auto">
       Ambitious university student with the ability to provide flexibility and strong leadership to all positions. Good background I customer service, event management, and marketing with exceptional skills in time management.
   </div>
+  </v-row>
   <v-row>
         <v-col cols="12" lg="6">
             <div class="heading">
