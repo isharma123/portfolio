@@ -44,7 +44,15 @@ export default {
                 {
                     link:'./english.jpeg',
                     text: null
-                }
+                },
+                {
+                    link:'./Screenshot 2022-12-05 182530.png',
+                    text: null
+                },
+                {
+                    link:'./Screenshot 2022-12-05 182559.png',
+                    text: null
+                },
             ]
         }
     }
